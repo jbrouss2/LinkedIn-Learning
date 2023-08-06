@@ -1,0 +1,5 @@
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Overview\Comments\obj\Debug\net7.0\Comments.csproj.AssemblyReference.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Overview\Comments\obj\Debug\net7.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfoInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfo.cs
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Overview\Comments\obj\Debug\net7.0\Comments.csproj.CoreCompileInputs.cache

@@ -14,10 +14,11 @@ namespace Comments
         
             //Single line comments start with two slashes
             //You can have as many of these as yuou want
+            
             Console.WriteLine("Hello World!");
+            
             /*Muliple line comments start with a slash and a star
             and can continue for several lines
             until a closing star and slash are encoutered */
-        }
     }
 }
