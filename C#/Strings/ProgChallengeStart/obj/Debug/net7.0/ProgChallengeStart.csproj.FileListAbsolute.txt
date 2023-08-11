@@ -1,0 +1,15 @@
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.csproj.AssemblyReference.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.AssemblyInfo.cs
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.exe
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.deps.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\bin\Debug\net7.0\ProgChallengeStart.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\refint\ProgChallengeStart.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ProgChallengeStart.genruntimeconfig.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\ProgChallengeStart\obj\Debug\net7.0\ref\ProgChallengeStart.dll
