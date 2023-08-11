@@ -1,0 +1,15 @@
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\bin\Debug\net7.0\Formatting.exe
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\bin\Debug\net7.0\Formatting.deps.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\bin\Debug\net7.0\Formatting.runtimeconfig.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\bin\Debug\net7.0\Formatting.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\bin\Debug\net7.0\Formatting.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.csproj.AssemblyReference.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfo.cs
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\refint\Formatting.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\Formatting.genruntimeconfig.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Strings\Formatting\obj\Debug\net7.0\ref\Formatting.dll
