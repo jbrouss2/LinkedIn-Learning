@@ -1,0 +1,15 @@
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\bin\Debug\net7.0\Defining.exe
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\bin\Debug\net7.0\Defining.deps.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\bin\Debug\net7.0\Defining.runtimeconfig.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\bin\Debug\net7.0\Defining.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\bin\Debug\net7.0\Defining.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.csproj.AssemblyReference.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.AssemblyInfoInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.AssemblyInfo.cs
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\refint\Defining.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\Defining.genruntimeconfig.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\Defining\obj\Debug\net7.0\ref\Defining.dll
