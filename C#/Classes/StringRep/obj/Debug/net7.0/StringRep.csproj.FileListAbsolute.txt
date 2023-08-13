@@ -1,0 +1,15 @@
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\bin\Debug\net7.0\StringRep.exe
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\bin\Debug\net7.0\StringRep.deps.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\bin\Debug\net7.0\StringRep.runtimeconfig.json
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\bin\Debug\net7.0\StringRep.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\bin\Debug\net7.0\StringRep.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.csproj.AssemblyReference.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfo.cs
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\refint\StringRep.dll
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.pdb
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\StringRep.genruntimeconfig.cache
+C:\Users\jules\OneDrive\Documents\Personal Projects\LinkedIn-Learning\C#\Classes\StringRep\obj\Debug\net7.0\ref\StringRep.dll
