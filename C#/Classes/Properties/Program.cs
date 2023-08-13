@@ -21,10 +21,10 @@ namespace Properties
 
             // Change the Name and Pagecount
             b1.Name = "Crime and Punishment";
-            b1.Pagecount = 652;
+            b1.PageCount = 652;
             Console.WriteLine(b1.Description);
             Console.WriteLine(b1.Name);
-            Console.WriteLine(b1.Pagecount);
+            Console.WriteLine(b1.PageCount);
         }
     }
 }
